@@ -6,13 +6,18 @@ This machine learning algorithm recommends the top 5 movies based on a given inp
 
 To use the movie recommendation algorithm, simply pass in the name of a movie as a command line argument. The algorithm will then return a list of the top 5 movies that are similar to the input movie.
 
-Requirements
-Python 3.x
-NumPy
-SciPy
-Installation
+### Requirements:
 
-### Clone the repository:
+1. Python 3.x
+2. NumPy
+3. Scikit-Learn
+4. Pandas
+5. Streamlit
+
+
+### Installation
+
+#### Clone the repository:
 
 ```git clone https://github.com/iamfaisalnafis/movie-recommendation-engine.git```
 
